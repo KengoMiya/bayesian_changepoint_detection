@@ -52,4 +52,5 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 *.ipynb
+!preprocess/check_db.ipynb
 .idea/*
