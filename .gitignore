@@ -54,3 +54,6 @@ docs/_build/
 *.ipynb
 !preprocess/check_db.ipynb
 .idea/*
+
+# Virtual environments
+.venv
